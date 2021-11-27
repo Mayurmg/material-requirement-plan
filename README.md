@@ -1,5 +1,11 @@
 # MRP-Task-for-AlgorythmTech
-1. At start of program 
+
+You can run the code on your system by downloading the file and installing Java on the system and writing the following commands in command prompt
+           javac A.main
+Then the code will compile and then write
+           java A
+ Then program will run.
+1. Start of program 
    
 ![2021-11-27](https://user-images.githubusercontent.com/79008331/143676908-97d9e2e9-9626-4011-9368-054bafe7a935.png)
 
