@@ -1,6 +1,7 @@
 # MRP-Task-for-AlgorythmTech
 
 You can run the code on your system by downloading the file and installing Java on the system and writing the following commands in command prompt 
+
 ![Untitled](https://user-images.githubusercontent.com/79008331/143677286-b54e6498-e507-4b28-915a-d3bb0f9e3f8f.png)
 
 1. Start of program 
