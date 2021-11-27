@@ -1,7 +1,7 @@
 # MRP-Task-for-AlgorythmTech
 
 You can run the code on your system by downloading the file and installing Java on the system and writing the following commands in command prompt
-           javac A.main
+           *javac A.main*
 Then the code will compile and then write
            java A
  Then program will run.
