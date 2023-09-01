@@ -1,4 +1,4 @@
-# MRP-Task-for-AlgorythmTech
+# Generating Material Requirement Plan for a product
 
 You can run the code on your system by downloading the file and installing Java on the system and writing the following commands in command prompt 
 
